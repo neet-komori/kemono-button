@@ -30,7 +30,7 @@ class FancyLogger {
       console.error(
         "%cKemonoButton[error]",
         `${this.errorColor};${this.badgeStyle.join(";")}`,
-        `${message}\nPlease report this issue to the developer at https://github.com/itskomori/kemono-button/issues`
+        `${message}\nPlease report this issue to the developer at https://github.com/neet-komori/kemono-button/issues`
       );
     }
   }

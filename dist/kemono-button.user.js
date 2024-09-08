@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Kemono Button
-// @namespace    https://github.com/itskomori
+// @namespace    https://github.com/neet-komori
 // @version      2.0.6
 // @author       komori
 // @description  Add button to access artist's page on Kemono or Coomer
 // @license      GPL-3.0-or-later
 // @icon         https://kemono.su/static/favicon.ico
-// @supportURL   https://github.com/itskomori/kemono-button
-// @downloadURL  https://raw.githubusercontent.com/itskomori/kemono-button/main/dist/kemono-button.user.js
-// @updateURL    https://raw.githubusercontent.com/itskomori/kemono-button/main/dist/kemono-button.meta.js
+// @supportURL   https://github.com/neet-komori/kemono-button
+// @downloadURL  https://raw.githubusercontent.com/neet-komori/kemono-button/main/dist/kemono-button.user.js
+// @updateURL    https://raw.githubusercontent.com/neet-komori/kemono-button/main/dist/kemono-button.meta.js
 // @match        https://onlyfans.com/*
 // @match        https://fansly.com/*
 // @match        https://fantia.jp/*
@@ -2546,7 +2546,7 @@ to {
         "%cKemonoButton[error]",
         `${this.errorColor};${this.badgeStyle.join(";")}`,
         `${message}
-Please report this issue to the developer at https://github.com/itskomori/kemono-button/issues`
+Please report this issue to the developer at https://github.com/neet-komori/kemono-button/issues`
       );
     }
   }
@@ -2921,7 +2921,7 @@ Please report this issue to the developer at https://github.com/itskomori/kemono
                   /* @__PURE__ */ jsxRuntimeExports.jsx(
                     "a",
                     {
-                      href: "https://github.com/itskomori/kemono-button/issues",
+                      href: "https://github.com/neet-komori/kemono-button/issues",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "text-blue-400 cursor-pointer",

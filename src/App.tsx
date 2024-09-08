@@ -232,7 +232,7 @@ export default function App() {
           <div className="flex items-center gap-1 justify-center">
             <b>Report problem</b>{" "}
             <a
-              href="https://github.com/itskomori/kemono-button/issues"
+              href="https://github.com/neet-komori/kemono-button/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-400 cursor-pointer"

@@ -17,8 +17,8 @@ The sole reason is because I'm tired of opening new tab and search for the artis
 
 ## How to install?
 
-You can simply install it by clicking [this link](https://raw.githubusercontent.com/itskomori/kemono-button/main/dist/kemono-button.user.js)  
-Or if you paranoid about the content, you can check the source code [here](https://github.com/itskomori/kemono-button/tree/main/src)
+You can simply install it by clicking [this link](https://raw.githubusercontent.com/neet-komori/kemono-button/main/dist/kemono-button.user.js)  
+Or if you paranoid about the content, you can check the source code [here](https://github.com/neet-komori/kemono-button/tree/main/src)
 
 ### How to use?
 
